@@ -1,4 +1,6 @@
 Curso Git & GitHub
+Versão 1.0
+
 Objetivo
 Ensinar como gerir projetos pessoais e de estudos com controle de versão e upload do projeto para o GitHub para manter backup e poder compartilhar com outras pessoas, dessa forma construindo um portfólio para apresentar em vagas de emprego.
 Explicar como funciona o controle de versão de código para trabalhar em grandes times de desenvolvimento utilizando Git e GitHub.
